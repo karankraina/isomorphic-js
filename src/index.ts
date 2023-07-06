@@ -2,7 +2,8 @@
  * @module isomorphic-js
  */
 
-export { atob } from './base64';
+export * as base64 from './base64';
+
 
 
 

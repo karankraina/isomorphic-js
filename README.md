@@ -36,7 +36,12 @@ npm install isomorphic-js
 ## Basic Usage
 
 ```javascript
+import { base64 } from '@karankraina/isomorphic-js';
 
+const encoded = base64.btoa('string');
+
+
+const decoded = base64.atob('encoded');
 ```
 
 
