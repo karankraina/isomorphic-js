@@ -1,6 +1,6 @@
 {
-  "name": "isomorphic",
-  "version": "1.0.0",
+  "name": "isomorphic-js",
+  "version": "0.0.1",
   "description": "isomorphic-js",
   "main": "lib/index.js",
   "scripts": {
