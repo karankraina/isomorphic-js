@@ -20,7 +20,7 @@
   </a>
 </p>
 
-> A very simple function based implementation of node.js worker threads
+> Isomorphic javascript utility functions
 
 ### 🏠 [Homepage](https://github.com/karankraina/isomorphic-js#readme)
 
